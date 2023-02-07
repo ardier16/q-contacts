@@ -1,6 +1,6 @@
 {
   "name": "Q Contacts",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Storage for Q Blockchain wallet addresses",
   "manifest_version": 3,
   "icons": {
